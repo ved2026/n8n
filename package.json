@@ -1,8 +1,8 @@
 {
 "name": "n8n-on-render",
 "private": true,
-"version": "1.0.0",
+"version": "2.6.2",
 "engines": { "node": ">=18" },
 "scripts": { "start": "n8n start" },
-"dependencies": { "n8n": "^1.0.0" }
+"dependencies": { "n8n": "^2.6.2" }
 }
